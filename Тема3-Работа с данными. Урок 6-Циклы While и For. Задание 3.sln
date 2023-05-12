@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Тема3-Работа с данными. Урок 6-Циклы While и For. Задание 3", "Тема3-Работа с данными. Урок 6-Циклы While и For. Задание 3\Тема3-Работа с данными. Урок 6-Циклы While и For. Задание 3.pyproj", "{2DB2270A-D895-47FD-A4F9-20B20EB93EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DB2270A-D895-47FD-A4F9-20B20EB93EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB2270A-D895-47FD-A4F9-20B20EB93EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68C89A6F-C2BF-49D5-9AF7-E52C45841C2F}
+	EndGlobalSection
+EndGlobal
